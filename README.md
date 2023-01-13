@@ -1,4 +1,4 @@
-**Hi there and welcome to my profile 👋 !**
+**Hi there and Welcome to my profile 👋 !**
 
 
 I'm Mohamed Najim, a Web developer, I have worked with front end and back end development, I learnt about programming and began teaching myself how to code.
